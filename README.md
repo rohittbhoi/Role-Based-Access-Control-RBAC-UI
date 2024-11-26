@@ -1,3 +1,5 @@
+# VRV Security’s Backend Developer Intern Assignment
+
 # Role-Based Authentication Backend with Spring Security
 
 This repository contains a backend application demonstrating role-based authentication and authorization using Spring Security within a Spring Boot framework.
